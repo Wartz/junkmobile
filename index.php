@@ -1,3 +1,3 @@
 <?php
-echo "u r noob"
+echo "u r noob";
 php?>
